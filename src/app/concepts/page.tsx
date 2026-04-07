@@ -4,7 +4,7 @@ const concept = [
      {name: "What is MongoDB?", path:"/concepts/WhatIsMongoDB"},
      {name: "Difference between SQL and NoSQL?", path:"/concepts/SQLvsNoSQL"},
      {name: "What is a Document in MongoDB?", path:"/concepts/MongoDBDocument"},
-
+     {name: "What is a Collection in MongoDB?", path:"/concepts/MongoDBCollection"},
 ];
 
 export default function Concepts(){
