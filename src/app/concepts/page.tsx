@@ -3,6 +3,8 @@ import Link from "next/link";
 const concept = [
      {name: "What is MongoDB?", path:"/concepts/WhatIsMongoDB"},
      {name: "Difference between SQL and NoSQL?", path:"/concepts/SQLvsNoSQL"},
+     {name: "What is a Document in MongoDB?", path:"/concepts/MongoDBDocument"},
+
 ];
 
 export default function Concepts(){
