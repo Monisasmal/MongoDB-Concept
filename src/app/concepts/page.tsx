@@ -6,7 +6,9 @@ const concept = [
      {name: "What is a Document in MongoDB?", path:"/concepts/MongoDBDocument"},
      {name: "What is a Collection in MongoDB?", path:"/concepts/MongoDBCollection"},
      {name: "What is a BSON?", path:"/concepts/WhatIsBSON"},
+     {name: "How to Insert Data in MongoDB (insertOne, insertMany)?", path:"/concepts/InsertDataMongoDB"},
 ];
+
 
 export default function Concepts(){
     
