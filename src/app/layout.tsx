@@ -4,8 +4,8 @@ import Header from "@/Components/Header";
 import Footer from "@/Components/Footer";
 
 export const metadata: Metadata = {
-  title: "Nodejs Guide",
-  description: "Learn Nodejs step by step with clear concepts",
+  title: "MongoDB Guide",
+  description: "Learn Mongodb step by step with clear concepts",
 };
 
 export default function RootLayout({
