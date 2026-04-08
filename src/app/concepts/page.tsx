@@ -8,6 +8,7 @@ const concept = [
      {name: "What is a BSON?", path:"/concepts/WhatIsBSON"},
      {name: "How to Insert Data in MongoDB (insertOne, insertMany)?", path:"/concepts/InsertDataMongoDB"},
      {name: "How to Read Data in MongoDB (find, findOne)?", path:"/concepts/ReadDataMongoDB"},
+     {name: "How to Update Data in MongoDB (updateOne, updateMany)?", path:"/concepts/UpdateDataMongoDB"},
 ];
 
 
