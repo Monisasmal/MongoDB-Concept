@@ -9,6 +9,7 @@ const concept = [
      {name: "How to Insert Data in MongoDB (insertOne, insertMany)?", path:"/concepts/InsertDataMongoDB"},
      {name: "How to Read Data in MongoDB (find, findOne)?", path:"/concepts/ReadDataMongoDB"},
      {name: "How to Update Data in MongoDB (updateOne, updateMany)?", path:"/concepts/UpdateDataMongoDB"},
+     {name: "How to Delete Data in MongoDB (deleteOne, deleteMany)?", path:"/concepts/DeleteDataMongoDB"},
 ];
 
 
