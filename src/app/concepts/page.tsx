@@ -12,6 +12,7 @@ const concept = [
      {name: "How to Delete Data in MongoDB (deleteOne, deleteMany)?", path:"/concepts/DeleteDataMongoDB"},
      {name: "What is Embedded Data Model in MongoDB?", path:"/concepts/EmbeddedDataModelMongoDB"},
      {name: "What is Referenced Data Model in MongoDB?", path:"/concepts/ReferencedDataModelMongoDB"},
+     {name: "When to Use Embedded vs Referenced Data Model in MongoDB?", path:"/concepts/EmbeddedVsReferencedMongoDB"},
 ];
 
 
