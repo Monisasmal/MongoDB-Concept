@@ -11,7 +11,7 @@ export default function Home() {
 
       {/* Hero */}
       <section className="text-center space-y-4">
-        <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-darkblue-600">
+        <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-blue-800">
           Learn <span className="text-green-700">MongoDB</span> the Right Way
         </h1>
 
