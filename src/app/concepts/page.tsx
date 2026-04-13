@@ -15,6 +15,7 @@ const concept = [
      {name: "When to Use Embedded vs Referenced Data Model in MongoDB?", path:"/concepts/EmbeddedVsReferencedMongoDB"},
      {name: "What is Indexing in MongoDB?", path:"/concepts/IndexingMongoDB"},
      {name: "Why Indexing Improves Performance in MongoDB?", path:"/concepts/WhyIndexingMongoDB"},
+     {name: "Types of Indexes in MongoDB?", path:"/concepts/TypesOfIndexesMongoDB"},
 ];
 
 
