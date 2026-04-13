@@ -16,6 +16,7 @@ const concept = [
      {name: "What is Indexing in MongoDB?", path:"/concepts/IndexingMongoDB"},
      {name: "Why Indexing Improves Performance in MongoDB?", path:"/concepts/WhyIndexingMongoDB"},
      {name: "Types of Indexes in MongoDB?", path:"/concepts/TypesOfIndexesMongoDB"},
+     {name: "When NOT to Use Indexing in MongoDB?", path:"/concepts/NotToUseIndexing"},
 ];
 
 
