@@ -19,6 +19,7 @@ const concept = [
      {name: "When NOT to Use Indexing in MongoDB?", path:"/concepts/NotToUseIndexing"},
      {name: "What is Aggregation Pipeline in MongoDB?", path:"/concepts/AggregationPipelineMongoDB"},
      {name: "$match Stage in MongoDB Aggregation Pipeline?", path:"/concepts/MatchStageMongoDB"},
+     {name: "$group Stage in MongoDB Aggregation Pipeline?", path:"/concepts/GroupStageMongoDB"},
 ];
 
 
