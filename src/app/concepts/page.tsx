@@ -20,6 +20,7 @@ const concept = [
      {name: "What is Aggregation Pipeline in MongoDB?", path:"/concepts/AggregationPipelineMongoDB"},
      {name: "$match Stage in MongoDB Aggregation Pipeline?", path:"/concepts/MatchStageMongoDB"},
      {name: "$group Stage in MongoDB Aggregation Pipeline?", path:"/concepts/GroupStageMongoDB"},
+     {name: "$sort Stage in MongoDB Aggregation Pipeline?", path:"/concepts/SortStageMongoDB"},
 ];
 
 
