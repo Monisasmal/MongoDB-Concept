@@ -21,6 +21,7 @@ const concept = [
      {name: "$match Stage in MongoDB Aggregation Pipeline?", path:"/concepts/MatchStageMongoDB"},
      {name: "$group Stage in MongoDB Aggregation Pipeline?", path:"/concepts/GroupStageMongoDB"},
      {name: "$sort Stage in MongoDB Aggregation Pipeline?", path:"/concepts/SortStageMongoDB"},
+     {name: "$project Stage in MongoDB Aggregation Pipeline?", path:"/concepts/ProjectStageMongoDB"},
 ];
 
 
