@@ -24,6 +24,7 @@ const concept = [
      {name: "$project Stage in MongoDB Aggregation Pipeline?", path:"/concepts/ProjectStageMongoDB"},
      {name: "$lookup Stage (Join) in MongoDB?", path:"/concepts/LookupStageMongoDB"},
      {name: "What is Mongoose?", path:"/concepts/WhatIsMongoose"},
+     {name: "Difference between Schema and Model in Mongoose?", path:"/concepts/SchemaVsModelMongoose"},
 ];
 
 
