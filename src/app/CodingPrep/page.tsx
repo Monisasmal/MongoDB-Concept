@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const CodingQue = [
      {name: "Connect Node.js to MongoDB?", path:"/CodingPrep/ConnectNodeToMongoDB"},
-     
+     {name: "Create schema and model using Mongoose.?", path:"/CodingPrep/CreateSchemaModel"},
 ];
 
 export default function InterviewCoding(){
