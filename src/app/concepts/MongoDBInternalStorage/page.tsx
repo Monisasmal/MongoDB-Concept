@@ -132,6 +132,6 @@ Binary format optimized for storage`}
         </ul>
       </section>
 
-    </div>
+    </div> 
   );
 }
