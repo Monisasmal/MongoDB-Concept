@@ -5,6 +5,7 @@ const CodingQue = [
      {name: "Create schema and model using Mongoose.?", path:"/CodingPrep/CreateSchemaModel"},
      {name: "Insert Data using Mongoose?", path:"/CodingPrep/InsertDataMongoose"},
      {name: "Build CRUD API with MongoDB.?", path:"/CodingPrep/CRUDAPIMongoDB"},
+     {name: "Implement Pagination in API (Express + MongoDB)?", path:"/CodingPrep/PaginationAPI"},
 ];
 
 export default function InterviewCoding(){
